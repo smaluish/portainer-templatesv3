@@ -132,7 +132,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         },
         {
@@ -337,7 +337,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles"
+          "default": "Australia/Perth"
         }
       ],
       "labels": [
@@ -385,7 +385,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles"
+          "default": "Australia/Perth"
         }
       ],
       "maintainer": " https://github.com/mediadepot/templates/"
@@ -418,7 +418,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles"
+          "default": "Australia/Perth"
         }
       ],
       "labels": [
@@ -481,7 +481,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles"
+          "default": "Australia/Perth"
         }
       ],
       "labels": [
@@ -626,7 +626,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles"
+          "default": "Australia/Perth"
         }
       ],
       "labels": [
@@ -716,7 +716,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles"
+          "default": "Australia/Perth"
         }
       ],
       "labels": [
@@ -779,7 +779,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles"
+          "default": "Australia/Perth"
         }
       ],
       "labels": [
@@ -841,7 +841,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles"
+          "default": "Australia/Perth"
         },
         {
           "name": "SITE_ROOT",
@@ -944,7 +944,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles"
+          "default": "Australia/Perth"
         }
       ],
       "labels": [
@@ -1011,7 +1011,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles"
+          "default": "Australia/Perth"
         }
       ],
       "labels": [
@@ -1080,7 +1080,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles"
+          "default": "Australia/Perth"
         }
       ],
       "labels": [
@@ -1169,7 +1169,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         },
         {
@@ -1394,7 +1394,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles",
+          "default": "Australia/Perth",
           "preset": true
         }
       ],
@@ -1590,7 +1590,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles"
+          "default": "Australia/Perth"
         }
       ],
       "labels": [
@@ -1666,7 +1666,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles"
+          "default": "Australia/Perth"
         },
         {
           "name": "VERSION",
@@ -1807,7 +1807,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles",
+          "default": "Australia/Perth",
           "preset": true
         }
       ],
@@ -1936,7 +1936,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles"
+          "default": "Australia/Perth"
         },
         {
           "name": "PUBLICHOST",
@@ -2135,7 +2135,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles"
+          "default": "Australia/Perth"
         }
       ],
       "labels": [
@@ -2233,7 +2233,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles"
+          "default": "Australia/Perth"
         }
       ],
       "labels": [
@@ -2308,7 +2308,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles"
+          "default": "Australia/Perth"
         }
       ],
       "labels": [
@@ -2426,7 +2426,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles"
+          "default": "Australia/Perth"
         }
       ],
       "labels": [
@@ -2630,7 +2630,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "America/Los_Angeles"
+          "default": "Australia/Perth"
         }
       ],
       "labels": [
@@ -3118,7 +3118,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         }
       ],
@@ -3163,7 +3163,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         },
         {
@@ -3214,7 +3214,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         }
       ],
@@ -3655,7 +3655,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         },
         {
@@ -3719,7 +3719,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         }
       ],
@@ -4139,7 +4139,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         }
       ],
@@ -4165,7 +4165,8 @@
       "env": [
         {
           "label": "TZ",
-          "name": "TZ"
+          "name": "TZ",
+          "default": "Australia/Perth"
         }
       ],
       "image": "authelia/authelia:latest",
@@ -4206,7 +4207,8 @@
         },
         {
           "label": "TZ",
-          "name": "TZ"
+          "name": "TZ",
+          "default": "Australia/Perth"
         }
       ],
       "image": "hotio/bazarr:release",
@@ -4372,7 +4374,8 @@
         },
         {
           "label": "TZ",
-          "name": "TZ"
+          "name": "TZ",
+          "default": "Australia/Perth"
         },
         {
           "label": "DATABASE_PASSWORD",
@@ -4541,7 +4544,8 @@
         },
         {
           "label": "TZ",
-          "name": "TZ"
+          "name": "TZ",
+          "default": "Australia/Perth"
         },
         {
           "label": "PASSWORD",
@@ -4812,7 +4816,8 @@
         },
         {
           "label": "TZ",
-          "name": "TZ"
+          "name": "TZ",
+          "default": "Australia/Perth"
         }
       ],
       "image": "linuxserver/emby:latest",
@@ -4988,7 +4993,8 @@
         },
         {
           "label": "Timezone",
-          "name": "TZ"
+          "name": "TZ",
+          "default": "Australia/Perth"
         }
       ],
       "image": "linuxserver/grocy:latest",
@@ -5125,7 +5131,8 @@
         },
         {
           "label": "TZ",
-          "name": "TZ"
+          "name": "TZ",
+          "default": "Australia/Perth"
         }
       ],
       "image": "linuxserver/jellyfin:latest",
@@ -5478,7 +5485,8 @@
         },
         {
           "label": "TZ",
-          "name": "TZ"
+          "name": "TZ",
+          "default": "Australia/Perth"
         }
       ],
       "image": "goofball222/murmur:latest",
@@ -5736,7 +5744,8 @@
         },
         {
           "label": "TZ",
-          "name": "TZ"
+          "name": "TZ",
+          "default": "Australia/Perth"
         },
         {
           "label": "DATABASE_PASSWORD",
@@ -5935,7 +5944,8 @@
         },
         {
           "label": "TZ",
-          "name": "TZ"
+          "name": "TZ",
+          "default": "Australia/Perth"
         },
         {
           "label": "OWNCLOUD_DOMAIN",
@@ -5989,7 +5999,8 @@
         },
         {
           "label": "TZ",
-          "name": "TZ"
+          "name": "TZ",
+          "default": "Australia/Perth"
         },
         {
           "label": "PORT",
@@ -6813,7 +6824,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         }
       ],
@@ -6858,7 +6869,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         },
         {
@@ -6921,7 +6932,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         },
         {
@@ -6992,7 +7003,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         }
       ],
@@ -7038,7 +7049,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         },
         {
@@ -7095,7 +7106,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         },
         {
@@ -7170,7 +7181,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         }
       ],
@@ -7215,7 +7226,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         }
       ],
@@ -7261,7 +7272,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         }
       ],
@@ -7306,7 +7317,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         },
         {
@@ -7351,7 +7362,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         },
         {
@@ -7409,7 +7420,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         }
       ],
@@ -7454,7 +7465,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         }
       ],
@@ -7499,7 +7510,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         },
         {
@@ -7607,7 +7618,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         },
         {
@@ -7772,7 +7783,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         },
         {
@@ -7871,7 +7882,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         },
         {
@@ -7926,7 +7937,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         },
         {
@@ -7981,7 +7992,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         }
       ],
@@ -8027,7 +8038,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         }
       ],
@@ -8076,7 +8087,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         }
       ],
@@ -8129,7 +8140,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         }
       ],
@@ -8176,7 +8187,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         },
         {
@@ -8231,7 +8242,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         },
         {
@@ -8317,7 +8328,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         }
       ],
@@ -8362,7 +8373,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         },
         {
@@ -8435,7 +8446,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         },
         {
@@ -8492,7 +8503,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         },
         {
@@ -8553,7 +8564,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         }
       ],
@@ -8817,7 +8828,8 @@
         },
         {
           "label": "TZ",
-          "name": "TZ"
+          "name": "TZ",
+          "default": "Australia/Perth"
         },
         {
           "label": "DATABASE_PASSWORD",
@@ -10163,7 +10175,7 @@
           "name": "POSTGRES_PASSWORD"
         },
         {
-          "default": "America/New_York",
+          "default": "Australia/Perth",
           "label": "TZ",
           "name": "TZ"
         }
@@ -10363,7 +10375,7 @@
           "name": "CAPTCHA_SOLVER"
         },
         {
-          "default": "America/New_York",
+          "default": "Australia/Perth",
           "label": "TZ",
           "name": "TZ"
         }
@@ -10495,7 +10507,7 @@
       "description": "A simple server for sending and receiving messages",
       "env": [
         {
-          "default": "America/New_York",
+          "default": "Australia/Perth",
           "label": "TZ",
           "name": "TZ"
         },
@@ -10647,7 +10659,7 @@
           "name": "HOMEBRIDGE_CONFIG_UI_PORT"
         },
         {
-          "default": "America/New_York",
+          "default": "Australia/Perth",
           "label": "TZ",
           "name": "TZ"
         }
@@ -10698,7 +10710,7 @@
           "name": "HOMEBRIDGE_CONFIG_UI_PORT"
         },
         {
-          "default": "America/New_York",
+          "default": "Australia/Perth",
           "label": "TZ",
           "name": "TZ"
         }
@@ -11028,7 +11040,7 @@
           "name": "PGID"
         },
         {
-          "default": "America/New_York",
+          "default": "Australia/Perth",
           "label": "TZ",
           "name": "TZ"
         },
@@ -11300,7 +11312,7 @@
           "name": "PGID"
         },
         {
-          "default": "America/New_York",
+          "default": "Australia/Perth",
           "label": "TZ",
           "name": "TZ"
         },
@@ -11367,7 +11379,7 @@
           "name": "PGID"
         },
         {
-          "default": "America/New_York",
+          "default": "Australia/Perth",
           "label": "TZ",
           "name": "TZ"
         }
@@ -11416,7 +11428,7 @@
           "name": "PGID"
         },
         {
-          "default": "America/New_York",
+          "default": "Australia/Perth",
           "label": "TZ",
           "name": "TZ"
         }
@@ -11697,7 +11709,7 @@
           "description": "for GroupID"
         },
         {
-          "default": "America/New_York",
+          "default": "Australia/Perth",
           "label": "TZ",
           "name": "TZ",
           "description": "Specify a timezone to use for example America/New_York"
@@ -11767,7 +11779,7 @@
           "name": "PGID"
         },
         {
-          "default": "Europe/Zurich",
+          "default": "Australia/Perth",
           "description": "Enter your time zone here. See examples https://en.wikipedia.org/wiki/List_of_tz_database_time_zones",
           "label": "TZ",
           "name": "TZ"
@@ -11893,7 +11905,7 @@
           "name": "PGADMIN_DEFAULT_PASSWORD"
         },
         {
-          "default": "America/New_York",
+          "default": "Australia/Perth",
           "label": "TZ",
           "name": "TZ"
         }
@@ -11966,7 +11978,7 @@
           "name": "ServerIP"
         },
         {
-          "default": "Europe\\London",
+          "default": "Australia/Perth",
           "label": "TZ",
           "name": "TZ"
         },
@@ -12085,7 +12097,7 @@
           "name": "POSTGRES_PASSWORD"
         },
         {
-          "default": "America/New_York",
+          "default": "Australia/Perth",
           "label": "TZ",
           "name": "TZ"
         }
@@ -12177,7 +12189,7 @@
           "name": "UMASK"
         },
         {
-          "default": "America/New_York",
+          "default": "Australia/Perth",
           "label": "TZ",
           "name": "TZ"
         },
@@ -13874,7 +13886,8 @@
         {
           "label": "TZ",
           "name": "TZ",
-          "set": "America/Chicago"
+          "set": "America/Chicago",
+          "default": "Australia/Perth"
         }
       ],
       "image": "linuxserver/libresonic:latest",
@@ -13927,7 +13940,8 @@
         {
           "label": "TZ",
           "name": "TZ",
-          "set": "America/Chicago"
+          "set": "America/Chicago",
+          "default": "Australia/Perth"
         }
       ],
       "image": "linuxserver/quassel-core:latest",
@@ -13973,7 +13987,8 @@
         {
           "label": "TZ",
           "name": "TZ",
-          "set": "America/Chicago"
+          "set": "America/Chicago",
+          "default": "Australia/Perth"
         }
       ],
       "image": "linuxserver/openvpn-as:latest",
@@ -14018,7 +14033,8 @@
         {
           "label": "TZ",
           "name": "TZ",
-          "set": "America/Chicago"
+          "set": "America/Chicago",
+          "default": "Australia/Perth"
         }
       ],
       "image": "linuxserver/hydra2:latest",
@@ -16395,7 +16411,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use"
         },
         {
@@ -16889,7 +16905,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -16938,7 +16954,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -16982,7 +16998,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -17032,7 +17048,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -17081,7 +17097,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -17131,7 +17147,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -17184,7 +17200,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -17233,7 +17249,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -17277,7 +17293,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -17320,7 +17336,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -17364,7 +17380,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -17419,7 +17435,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -17469,7 +17485,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -17512,7 +17528,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -17559,7 +17575,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -17605,7 +17621,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -17650,7 +17666,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -17702,7 +17718,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -17760,7 +17776,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -17914,7 +17930,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -17962,7 +17978,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -18083,7 +18099,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -18144,7 +18160,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -18190,7 +18206,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -18263,7 +18279,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -18334,7 +18350,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -18378,7 +18394,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -18422,7 +18438,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -18466,7 +18482,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -18510,7 +18526,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -18557,7 +18573,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -18602,7 +18618,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -18710,7 +18726,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -18765,7 +18781,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -18809,7 +18825,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -18852,7 +18868,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -18975,7 +18991,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -19025,7 +19041,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -19069,7 +19085,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -19113,7 +19129,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -19163,7 +19179,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -19236,7 +19252,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -19280,7 +19296,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -19330,7 +19346,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -19374,7 +19390,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -19439,7 +19455,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -19483,7 +19499,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -19533,7 +19549,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -19583,7 +19599,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -19634,7 +19650,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -19678,7 +19694,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -19721,7 +19737,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -19765,7 +19781,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -19832,7 +19848,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -19882,7 +19898,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -19926,7 +19942,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -19993,7 +20009,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -20072,7 +20088,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -20163,7 +20179,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -20218,7 +20234,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -20266,7 +20282,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -20331,7 +20347,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -20374,7 +20390,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -20417,7 +20433,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -20485,7 +20501,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -20528,7 +20544,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -20572,7 +20588,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -20615,7 +20631,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -20659,7 +20675,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -20703,7 +20719,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -20747,7 +20763,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -20790,7 +20806,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -20834,7 +20850,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -20878,7 +20894,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -20959,7 +20975,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -21113,7 +21129,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -21163,7 +21179,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         },
         {
@@ -21268,7 +21284,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -21311,7 +21327,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -21355,7 +21371,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -21399,7 +21415,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -21443,7 +21459,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -21487,7 +21503,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -21531,7 +21547,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -21574,7 +21590,7 @@
         {
           "name": "TZ",
           "label": "TZ",
-          "default": "Europe/Amsterdam",
+          "default": "Australia/Perth",
           "description": "specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)."
         }
       ],
@@ -21887,7 +21903,8 @@
       "env": [
         {
           "name": "TZ",
-          "label": "TZ"
+          "label": "TZ",
+          "default": "Australia/Perth"
         }
       ],
       "volumes": [
@@ -21919,7 +21936,8 @@
       "env": [
         {
           "name": "TZ",
-          "label": "TZ"
+          "label": "TZ",
+          "default": "Australia/Perth"
         }
       ],
       "volumes": [
