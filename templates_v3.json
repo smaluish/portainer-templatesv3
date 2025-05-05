@@ -4561,7 +4561,7 @@
           "name": "PROXY_DOMAIN"
         }
       ],
-      "image": "linuxserver/code-server:latest",
+      "image": "lscr.io/linuxserver/code-server:latest",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/code-server.png",
       "name": "code-server",
       "platform": "linux",
